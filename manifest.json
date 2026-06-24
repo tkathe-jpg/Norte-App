@@ -1,0 +1,26 @@
+{
+  "name": "Norte",
+  "short_name": "Norte",
+  "description": "Productividad personal",
+  "start_url": "./",
+  "display": "fullscreen",
+  "background_color": "#3e3f4f",
+  "theme_color": "#07111F",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' fill='%2307111F'/%3E%3Ctext x='50%25' y='54%25' dominant-baseline='middle' text-anchor='middle' font-family='serif' font-size='200' fill='%23EBF0FA'%3EN%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "id": "Norte_App",
+  "prefer_related_applications": false,
+  "iarc_rating_id": "12-20",
+  "categories": [
+    "lifestyle",
+    "productivity"
+  ],
+  "lang": "es"
+}
